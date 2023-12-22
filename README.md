@@ -51,3 +51,5 @@ To generate an observation, the simulator samples all the afformentioned compone
 
 -  [Likelihood-free MCMC with Amortized Approximate Ratio Estimators](https://arxiv.org/abs/1903.04057)
 
+Note: This project was part of the Astromatic Summer School/Hackathon at the Université de Montréal.
+
