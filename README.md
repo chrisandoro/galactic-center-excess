@@ -1,8 +1,9 @@
 # Galactic Center GeV Excess (GCE)
-![Galactic Center](docs/images/galactic-center.png)
 ### Have we discovered dark matter in the center of the Milky Way?
 
 We know dark matter (DM) makes up 85% of the universe's mass, but we still have not identified its fundamental components. One very well-motivated possibility is that it is a *weakly interacting massive particle (WIMP)* -- a particle with a mass between 1-1000 times that of a proton. If that's the case, DM in our galaxy could annihilate with itself and produce gamma rays. The gamma-ray signal from DM annihilation should be strongest in the center of the galaxy, where the DM density is the largest.
+
+![Galactic Center](docs/images/galactic-center.png)
 
 That's why there was a huge amount of excitement when the Fermi Large Area Telescope (LAT) observed an unexpected excess of gamma-rays coming from the Galactic Center. While this excess can be explained by DM, debate has raged for the past 13 years over whether astrophysics can explain it instead. The main astrophysical explanation is *millisecond pulsars (MSPs)*. These rapidly-rotating remnants of massive stars have extremely strong magnetic fields, which accelerate particles to high energies, causing them to emit gamma rays. The brightest ones appear as *point sources* -- small spots in the gamma-ray sky. Gas emission and other mechanisms also produce gamma rays.
 
