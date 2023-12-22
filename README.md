@@ -1,4 +1,5 @@
 # Galactic Center GeV Excess (GCE)
+![Galactic Center](docs/images/galactic-center.png)
 ### Have we discovered dark matter in the center of the Milky Way?
 
 We know dark matter (DM) makes up 85% of the universe's mass, but we still have not identified its fundamental components. One very well-motivated possibility is that it is a *weakly interacting massive particle (WIMP)* -- a particle with a mass between 1-1000 times that of a proton. If that's the case, DM in our galaxy could annihilate with itself and produce gamma rays. The gamma-ray signal from DM annihilation should be strongest in the center of the galaxy, where the DM density is the largest.
@@ -19,6 +20,8 @@ New ML tools make it possible to make measurements directly from images, and per
 
 ### What data is used? 
 This notebook contains a hand-crafted simulator to generate images of the Galactic Center. Running the simulator's `sample()` method generates a `dict` containing a random sample from the model.
+
+![Simulation](docs/images/simulation.png)
 
 The simulator models the following emission components with entries in the `sample`:
 
